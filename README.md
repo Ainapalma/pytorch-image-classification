@@ -13,4 +13,4 @@ The project in the Jupyter notebook is broken down into three main steps:
 
 ### Python libraries
 
-The Jupyter Notebook and the Python modules require the following Python libraries: torch, torchvision, torchsummary, matplotlib, multiprocessing, os, tarfile, time
+The Jupyter Notebook and the Python module require the following libraries: torch, torchvision, torchsummary, matplotlib, multiprocessing, os, tarfile, time
