@@ -5,7 +5,7 @@ The network instance in the Jupyter notebook is trained on Imagewoof dataset.
 
 ### Jupyter notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ainapalma/pytorch-image-classification/blob/main/imagewoof_classifier_pytorch.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ainapalma/pytorch-image-classification/blob/main/imagewoof_classifier_pytorch.ipynb)]
 
 The project in the Jupyter notebook is broken down into three main steps:
 
